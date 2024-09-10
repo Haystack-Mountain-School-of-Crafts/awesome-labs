@@ -1,7 +1,6 @@
-# Awesome Labs
-![Labs](media/labs-logo-dark.png)
+# Awesome Labs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Labs](media/labs-logo-dark.png)
 
 This is a list of awesome things to come out of Haystack Labs. It could be recommended 3D scanning software, the best digital knitting software, or the best pen ever. 
 
