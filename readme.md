@@ -22,6 +22,9 @@ This is a list of awesome things to come out of Haystack Labs. It could be recom
 - **[Meshy](https://www.meshy.a/)**. A text or image-to-3D model service.
 - **[CSM](https://www.csm.ai/)**. A text or image-to-3D and auto animation service. Local to Cambridge!
 
+## Fabrication Resources 
+- [#FreePrintFridays(https://docs.google.com/forms/d/1NLXpNiR4vVmeLKFh3lhmImiceslWwrzi_k8MhuUAFxE/edit?ts=66b4ea0e)]. A resource by re:3D for people to request open-source designs for the 3D printing community. Submit your ideas to the form and it could potentially appear on Thingiverse or another 3D model library. 
+
 ## Pens 
 
 ## Machines
